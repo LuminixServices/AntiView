@@ -13,5 +13,5 @@ Open your file
  <!--By Default example.com will be the proxy you can change thise code-->
 	<iframe src="https://www.example.com" allowfullscreen allow-scripts allow-same-origin></iframe>	
   
-  replace https://www.example.com to whatever your proxy is
-  
+  replace https://www.example.com to whatever your proxy link is
+  MUST BE UNBLOCKED!
